@@ -1,5 +1,0 @@
-if(EXISTS "/mnt/d/OOP_labs/laba4/build/lab04_tests[1]_tests.cmake")
-  include("/mnt/d/OOP_labs/laba4/build/lab04_tests[1]_tests.cmake")
-else()
-  add_test(lab04_tests_NOT_BUILT lab04_tests_NOT_BUILT)
-endif()

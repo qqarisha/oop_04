@@ -1,0 +1,9 @@
+build/
+*.o
+*.out
+lab04_main
+lab04_tests
+*.exe
+.DS_Store
+*.swp
+*.swo
