@@ -1,0 +1,4 @@
+/mnt/d/OOP_labs/laba4/build/CMakeFiles/lab04_main.dir
+/mnt/d/OOP_labs/laba4/build/CMakeFiles/lab04_tests.dir
+/mnt/d/OOP_labs/laba4/build/CMakeFiles/edit_cache.dir
+/mnt/d/OOP_labs/laba4/build/CMakeFiles/rebuild_cache.dir
